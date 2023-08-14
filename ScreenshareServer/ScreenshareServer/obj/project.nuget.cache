@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBGNOU+RQ184s4Lng2iNAvOGWw1hXU3gy/WBifpat/oyqMXlUl9e4FaRSQFJquS4XEd+V6lp017hF0SYK+mTig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ScreenshareServer\\ScreenshareServer\\ScreenshareServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

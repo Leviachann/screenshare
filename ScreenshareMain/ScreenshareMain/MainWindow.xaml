@@ -1,0 +1,11 @@
+﻿<Window x:Class="ServerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Server App" Height="500" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="ListenButton" Content="Listen" Click="ListenButton_Click" Width="100" Height="30" Margin="10"/>
+            <Image x:Name="ScreenshotImage" Width="600" Height="400" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>
